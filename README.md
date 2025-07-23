@@ -1,4 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ayoub Ankote</h1>
+<h3 align="center">Passionate developer skilled in Python/Django, Django REST Framework with JWT for secure APIs, and ReactJS for building scalable web apps. Proficient in Docker and PostgreSQL, with experience integrating LLMs (OpenAI/Gemini) for AI-powered features. Strong focus on clean code, performance, and full-stack application design.</h3>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankote&label=Profile%20views&color=0e75b6&style=flat" alt="ankote" /> </p>
 
 <h3 align="left">Connect with me:</h3>
